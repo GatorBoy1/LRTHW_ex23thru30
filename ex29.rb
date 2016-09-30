@@ -36,3 +36,23 @@ end
 
 
 
+puts "Preparing for battle"
+
+our_soldiers = 5000
+
+
+enemy_soldiers = 10000
+
+
+
+
+
+if our_soldiers < enemy_soldiers
+	puts "Men!, enemy numbers are greater than ours!"
+	puts"But we have the skill, heart, and ability to be victorious!"
+
+end
+
+if our_soldiers > enemy_soldiers 
+	puts "We have them out numbered!"
+end
